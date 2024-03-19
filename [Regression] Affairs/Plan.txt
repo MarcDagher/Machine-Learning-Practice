@@ -1,0 +1,26 @@
+### I can test one by splitting the columns and one by standardization
+
+- Affairs: Change to 0 or 1
+- Gender: Change to 0 or 1
+- Children: Change to 0 or 1
+
+- Age: Categorize them
+- Years of marriage: Categorize them
+- Religiousness: 3+ = yes / 2- = no. Change to categories
+- Education: 
+--- 9 - 12: Grade School
+--- 12: High school grad
+--- 12 - 17: College 
+--- 18 - 20 Masters
+--- 20 + Phd
+
+- Occupation: 1 - 7 means that 1 is the best status and 7 is the worst. Either split them into 7 categories or apply a formula on all the dataset
+- Rating: 1 - 5 where 1 is unhappy
+
+### Approach 2: Standardization on numerical data
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Affairs: Change to 0 or 1
+- Gender: Change to 0 or 1
+- Children: Change to 0 or 1
+
+- Age, Years of Marriage, Religiousness, Education, Occupation(Needs to be reversed), Rating => Standardization

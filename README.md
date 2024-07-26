@@ -1,26 +1,62 @@
-### Regression
-- [Car Price](https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Regression/Predict%20Car%20Price)  
-- [Energy Usage](https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Regression/Predict%20Energy%20Usage)
-- [Extramarital Affairs](https://github.com/MarcDagher/Machine-Learning-Practice/blob/main/Regression/Predict%20Extramarital%20Affairs/approach_1.ipynb)
-- [Housing Prices](https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Regression/Predict%20Housing%20Prices)
+<table>
+  <tr>
+    <th colspan="4">Regression</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Regression/Predict%20Car%20Price">Car Price</a></td>
+    <td><a href="https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Regression/Predict%20Energy%20Usage">Energy Usage</a></td>
+    <td><a href="https://github.com/MarcDagher/Machine-Learning-Practice/blob/main/Regression/Predict%20Extramarital%20Affairs">Extramarital Affairs</a></td>
+    <td><a href="https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Regression/Predict%20Housing%20Prices">Housing Prices</a></td>
+  </tr>
+</table>
 
-### Classification
-- [Mental Disorders](https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Classification/Classify%20Mental%20Disorders)
-- [Ads' Success](https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Classification/Predict%20Ads'%20Success)
-- [Customer Spending Score](https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Classification/Predict%20Customer%20Spending%20Score)
-- [Classify Gender From Spotify Activity](https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Classification/Predict%20Gender%20From%20Spotify%20Activity)
+<table>
+  <tr>
+    <th colspan="4">Classification</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Classification/Classify%20Mental%20Disorders">Mental Disorders</a></td>
+    <td><a href="https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Classification/Predict%20Ads'%20Success">Ads' Success</a></td>
+    <td><a href="https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Classification/Predict%20Customer%20Spending%20Score">Customer Spending Score</a></td>
+    <td><a href="https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Classification/Predict%20Gender%20From%20Spotify%20Activity">Classify Gender From Spotify Activity</a></td>
+  </tr>
+</table>
 
-### Clustering
-- [Instagram Influencers](https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Clustering/Instagram%20Influencers)
+<table>
+  <tr>
+    <th colspan="4">Clustering</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Clustering/Instagram%20Influencers">Instagram Influencers</a></td>
+  </tr>
+</table>
 
-### Association Rule Learning
-- [Store Transactions](https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Association%20Rule%20Learning/Store%20Data)
-- [Student Behavior](https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Association%20Rule%20Learning/Student%20Behavior)
-- [Wellbeing and Lifestyle](https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Association%20Rule%20Learning/Wellbeing%20And%20Lifestyle)
+<table>
+  <tr>
+    <th colspan="4">Association Rule Learning</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Association%20Rule%20Learning/Store%20Data">Store Transactions</a></td>
+    <td><a href="https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Association%20Rule%20Learning/Student%20Behavior">Student Behavior</a></td>
+    <td><a href="https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Association%20Rule%20Learning/Wellbeing%20And%20Lifestyle">Wellbeing and Lifestyle</a></td>
+  </tr>
+</table>
 
-### NLP
-- [Sentiment Analysis](https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/NLP/Emotions(Sentiment%20Analysis))
-- [Twitter Sentiment Analysis](https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/NLP/Twitter%20Sentiment%20Analysis)
+<table>
+  <tr>
+    <th colspan="4">NLP</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/NLP/Emotions(Sentiment%20Analysis)">Sentiment Analysis</a></td>
+    <td><a href="https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/NLP/Twitter%20Sentiment%20Analysis">Twitter Sentiment Analysis</a></td>
+  </tr>
+</table>
 
-### Computer Vision
-- [Malaria Classification](https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Computer%20Vision/Classify%20Malaria%20Detection)
+<table>
+  <tr>
+    <th colspan="4">Computer Vision</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MarcDagher/Machine-Learning-Practice/tree/main/Computer%20Vision/Classify%20Malaria%20Detection">Malaria Classification</a></td>
+  </tr>
+</table>

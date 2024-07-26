@@ -1,4 +1,4 @@
-<table>
+<table align="center">
   <tr>
     <th colspan="4">Regression</th>
   </tr>
@@ -10,7 +10,7 @@
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <th colspan="4">Classification</th>
   </tr>
@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <th colspan="4">Clustering</th>
   </tr>
@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <th colspan="4">Association Rule Learning</th>
   </tr>
@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <th colspan="4">NLP</th>
   </tr>
@@ -52,7 +52,7 @@
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <th colspan="4">Computer Vision</th>
   </tr>
